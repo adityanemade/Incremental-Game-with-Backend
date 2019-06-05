@@ -40,3 +40,7 @@ build.gradle                    -> necessary gradle definition
 build/                          -> built files
 	classes                     -> compiled java classes
 ```
+
+### Demo
+
+https://adityanemade.github.io/Incremental-Game/
