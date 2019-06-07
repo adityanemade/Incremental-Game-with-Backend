@@ -11,7 +11,7 @@
     "test": "jest",
     "build": "webpack"
   },
-  "author": "Eric Liao <rcliao01@gmail.com>",
+  "author": "Aditya Nemade <adityanemade@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.22"
