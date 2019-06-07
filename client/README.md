@@ -17,7 +17,6 @@ npm run build
 Before start developing, it's important to know the folder structure:
 
 ```
-cookie-clicker/client on  lab3 [!?] is 📦 v1.0.0 via ⬢ v9.3.0
 [I] ✦ ➜ tree -L 2 -I 'node_modules|package-*'
 .
 ├── README.md
