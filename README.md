@@ -32,6 +32,36 @@ build/                          -> built files
 	classes                     -> compiled java classes
 ```
 
+### Running the application
+
+```
+gradle appRun
+```
+
+And on the front end side of things, you can run the following command under `client` folder after running `npm install`:
+
+```
+npm run build
+```
+
+> Upon running the `npm run build` command, it will build the bundled JavaScript
+> file to `/src/main/webapp`. This means that you don't need to manually copy
+> and paste the file to webapp anymore. They are in the right location.
+
+### Tests
+
+To run tests on Java side on root directory of the project:
+
+```
+gradle test
+```
+
+To run tests on JavaScript side, run the following command in `client` folder:
+
+```
+npm test
+```
+
 ### Demo
 
 https://adityanemade.github.io/Incremental-Game/
