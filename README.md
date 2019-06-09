@@ -1,19 +1,10 @@
-# Java Web Application Starter with Gradle
+# Incremental Game with Backend
 
-This is the starter set to start Java application development with Gradle using
-Gretty.
+In this game, a player performs a simple action by clicking the "slaps" button, which in turn rewards the player with a unit of currency. The player may spend their currency to purchase generators that allow the player to earn currency faster or automatically, without needing to perform the initial action. Also, a player can save his/her progress by logging into the app.
 
 ## Runtime dependencies
 
 You will need Java, Node.js, Gradle to run this project (or simply Docker).
-
-## Get Started
-
-You can run `./script/start.sh` to start application and go to http://localhost:8080/hello
-to see HelloServlet working.
-
-You can start adding more Java Servlets under `src/main/java` folder to continue
-hacking!
 
 ## Development
 
